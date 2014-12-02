@@ -1,4 +1,8 @@
 flask-static
 ============
 
-flask-static-blog-engine
+Usage:
+
+Purpose:
+
+Version: 0
